@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "Ol\u00e1",
+      "answer": "Ol\u00e1 pra voce tamb\u00e9m"
+    },
+    {
+      "question": "eai como voce est\u00e1?",
+      "answer": "Eu sou um chatbot n\u00e3o tenho como opinar sobre isso"
+    },
+    {
+      "question": "eai cara",
+      "answer": "De boa cara"
+    },
+    {
+      "question": "Pode me contar como ser\u00e1 a aula?",
+      "answer": "Ser\u00e1 de 2 horas de dura\u00e7\u00e3o, sobre o assunto de chatbots"
+    }
+  ]
+}
